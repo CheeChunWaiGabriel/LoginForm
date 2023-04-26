@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+    <string name="NameTextView">Name</string>
+    <string name="NamePrompt">Enter your username</string>
+    <string name="PasswordTextView">Password</string>
+    <string name="LeftButtonFunction">Login</string>
+    <string name="RightButtonFunction">Cancel</string>
+    <string name="PassPrompt">Enter your password</string>
+</resources>
